@@ -1,1 +1,1 @@
-Jawaban Test QA.
+console dotnet run
